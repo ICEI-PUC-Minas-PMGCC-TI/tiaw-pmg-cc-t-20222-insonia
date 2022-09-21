@@ -1,21 +1,20 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+INSÔNIA
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+CIÊNCIA DA COMPUTAÇÃO
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Beatriz Fernandes Chiericatti
+> - Gabriel Gonçalves Fialho
+> - Ian Barbosa de Araujo
+> - Letícia Azevedo Cota Barbosa
+> - Vitor Augusto Alves da Silva
 
 # Estrutura do Documento
 
