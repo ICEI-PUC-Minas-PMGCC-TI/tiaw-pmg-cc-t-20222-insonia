@@ -89,7 +89,7 @@ A finalidade do projeto é dar apoio as pessoas que têm sintomas de insônia. S
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O que impulsionou a realização deste trabalho foi ver que a insônia afeta grande porcentagem da população do país, assim ganha particular pertinência abordarmos o tema, para ajudarmos essas pessoas. Este projeto, por sua vez, deve ser utilizado pelos adolescentes e adultos com insônia, fazendo com que entendam, e assim, possam se orientar, cada vez mais sobre esse disturbio, com base na Associação Brasileira do Sono (ABS) voltada às pesquisas sobre a Insônia.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
