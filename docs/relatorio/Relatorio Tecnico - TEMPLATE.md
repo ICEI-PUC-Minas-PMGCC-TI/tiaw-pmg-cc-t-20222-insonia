@@ -55,9 +55,8 @@ CIÊNCIA DA COMPUTAÇÃO
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-Segundo o Instituto Brasileiro de Opinião Pública e Estatística (IBOPE), no Brasil, 65% da população afirma ter uma baixa qualidade de sono. Assim sendo, mostra-se relevante pensar na qualidade do sono e, logo, na Insônia, uma vez que as perturbações do sono podem acarretar alterações significativas no funcionamento físico, ocupacional, cognitivo e social do indivíduo, além de coprometer substancialmente a qualidade de vida da pessoa.
+Segundo o Instituto Brasileiro de Opinião Pública e Estatística (IBOPE), no Brasil, 65% da população afirma ter uma baixa qualidade de sono. Assim, mostra-se relevante pensar na qualidade do sono e assim na Insônia, uma vez que as perturbações do sono podem acarretar alterações significativas no funcionamento físico, ocupacional, cognitivo e social do indivíduo, além de coprometer substancialmente a qualidade de vida da pessoa.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -77,7 +76,7 @@ Segundo o Instituto Brasileiro de Opinião Pública e Estatística (IBOPE), no B
 
 ## Objetivos
 
-
+Com o objetivo de minimizar os casos de insônia no Brasil, assim por meio de um softaware, a fim de levar informações para as que as pessoas entendam as causas e possam se orientar, por meio de pesquisa aberta, buscando traçar um perfil e hábitos comuns para melhor direcionar com respaldo científico. 
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
