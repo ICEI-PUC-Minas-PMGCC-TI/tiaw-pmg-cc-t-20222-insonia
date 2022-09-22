@@ -57,6 +57,15 @@ CIÊNCIA DA COMPUTAÇÃO
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+> Segundo o Instituto Brasileiro de Opinião Pública e Estatística (IBOPE), no 
+> Brasil, 65% da população afirma ter uma baixa qualidade de sono. Assim, mostra-se 
+> relevante pensar na qualidade do sono e assim na Insônia, uma vez que as 
+> perturbações do sono podem acarretar alterações significativas no funcionamento
+> físico, ocupacional, cognitivo e social do indivíduo, além de coprometer 
+> substancialmente a qualidade de vida da pessoa.
+
+
+
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
 > Descreva também o contexto em que essa aplicação será usada, se
@@ -74,8 +83,6 @@ CIÊNCIA DA COMPUTAÇÃO
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
