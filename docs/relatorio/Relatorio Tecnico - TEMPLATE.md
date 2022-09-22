@@ -76,7 +76,7 @@ Segundo o Instituto Brasileiro de Opinião Pública e Estatística (IBOPE), no B
 
 ## Objetivos
 
-A finalidade do projeto, é dar apoio as pessoas que têm sintomas de insônia. Sendo assim, criaremos um site web para auxiliar os adolescentes e adultos em suas pesquisas e direcionamentos, analizar o impacto que o disturbio tem na sua vida cotidiana e saúde, levar informações adicionais para as que as pessoas possam se se orientar, por meio de pesquisa aberta, buscando traçar um perfil e hábitos comuns para melhor direcionar com respaldo científico. Somente assim poderemos minimizar os sintomas e cada vez mais ajudar pessoas com Insônia.
+A finalidade do projeto é dar apoio as pessoas que têm sintomas de insônia. Sendo assim, criaremos um site web para auxiliar os adolescentes e adultos em suas pesquisas e direcionamentos, analizar o impacto que o disturbio tem na sua vida cotidiana e saúde, levar informações adicionais para as que as pessoas possam se se orientar, por meio de pesquisa aberta, buscando traçar um perfil e hábitos comuns para melhor direcionar com respaldo científico. Somente assim poderemos minimizar os sintomas e cada vez mais ajudar pessoas com Insônia.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
