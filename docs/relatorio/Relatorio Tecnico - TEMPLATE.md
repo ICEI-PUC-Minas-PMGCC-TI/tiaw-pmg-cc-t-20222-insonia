@@ -108,7 +108,7 @@ O que impulsionou a realização deste trabalho foi ver que a insônia afeta gra
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Este software é destinado a pessoas com insônia. Grande parte do público alvo são mulheres, de 20 a 40 anos, com segundo grau completo e com renda de 5 até 10 mil reais. Normalmente essas pessoas se encontram nas captais e regiões metropolitanas, e visam priorizar a qualidade do produto, mas gostam de uma boa promoção, além de comprarem a maioria das suas necessidades pela internet.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
