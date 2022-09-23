@@ -56,9 +56,10 @@ CIÊNCIA DA COMPUTAÇÃO
 ## Problema
 
 
-A insônia é um problema decorrente da irregularidade do tempo adequado do sono e/ou da qualidade do mesmo. Nesse sentido, tal distúrbio pode ser classificada, segundo a Associação Brasileira do Sono,  em Insônia sintomática e Transtorno da Insônia (TI). A primeira refere-se quando a perturbação do sono está associada a outras condições médicas, sociais ou ambientais e a segunda é quando a queixa sobre a insônia constitui a própria doença.
+A insônia, por definição, é uma condição em que há dificuldade de iniciar o sono, manter-se dormindo, despertar mais cedo do que seria necessário pela manhã, sendo assim está associado ao comprometimento diurno (pessoal, social e ocupacional) e à preocupação com a diminuição do sono  .Portanto é um problema decorrente da irregularidade do tempo adequado do sono e/ou da qualidade do mesmo. Nesse sentido, tal distúrbio pode ser classificada, segundo a Associação Brasileira do Sono,  em Insônia sintomática e Transtorno da Insônia (TI). A primeira refere-se quando a perturbação do sono está associada a outras condições médicas, sociais ou ambientais e a segunda é quando a queixa sobre a insônia constitui a própria doença.
 
-Dessa forma, segundo o Instituto Brasileiro de Opinião Pública e Estatística (IBOPE), no Brasil, 65% da população afirma ter uma baixa qualidade de sono. Sendo assim, mostra-se relevante pensar na qualidade do sono e assim na Insônia, uma vez que as perturbações do sono podem acarretar alterações significativas no funcionamento físico, ocupacional, cognitivo e social do indivíduo, além de coprometer substancialmente a qualidade de vida da pessoa.
+Dessa forma, segundo o Instituto Brasileiro de Opinião Pública e Estatística (IBOPE), no Brasil, 65% da população afirma ter uma baixa qualidade de sono. Sendo assim, mostra-se relevante pensar na qualidade do sono e assim na Insônia, uma vez que as perturbações do sono podem acarretar alterações significativas no funcionamento físico, ocupacional, cognitivo e social do indivíduo, além de comprometer substancialmente a qualidade de vida da pessoa.
+
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
