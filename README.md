@@ -4,11 +4,11 @@ Segundo a Associação Brasileira do Sono (Absono), o sintoma de insônia é pre
 
 ## Alunos integrantes da equipe
 
-*Beatriz Fernandes Chiericatti
-*Gabriel Gonçalves Fialho
-*Ian Barbosa de Araujo
-*Letícia Azevedo Cota Barbosa
-*Vitor Augusto Alves da Silva
+* Beatriz Fernandes Chiericatti
+* Gabriel Gonçalves Fialho
+* Ian Barbosa de Araujo
+* Letícia Azevedo Cota Barbosa
+* Vitor Augusto Alves da Silva
 
 ## Professores responsáveis
 
