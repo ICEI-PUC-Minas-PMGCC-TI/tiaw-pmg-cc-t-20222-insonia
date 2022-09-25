@@ -338,7 +338,7 @@ Página do forum:
 
 
 # Metodologia
-Os encontros para a realização do trabalho foram feitos no canal do grupo do discord. A organização infelizmente não foi feita pelo método Scrum. Os integrantes do grupo gerenciaram as atividades por meio de um Kanban no miro:
+Os encontros para a realização do trabalho foram feitos no canal do grupo do discord. Os integrantes do grupo gerenciaram as atividades por meio de um Kanban no miro:
 ![Kanban](images/KanbanFramework.jpg)
 
 
@@ -363,7 +363,9 @@ Os encontros para a realização do trabalho foram feitos no canal do grupo do d
 
 ## Divisão de Papéis
 
-A divisão de papeis pode ser vista na imagem acima. 
+A divisão de papeis pode ser vista na imagem acima. As cores designadas para cada pessoa foram colocadas nas atividades para relatar quais pessoas foram encaminhadas. 
+Algumas foram decididas durante a realização do projeto e outras foram decididas na primeira reunião do grupo. 
+
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
