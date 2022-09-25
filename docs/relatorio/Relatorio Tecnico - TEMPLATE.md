@@ -127,7 +127,9 @@ Este software é destinado a pessoas com insônia. Grande parte do público alvo
  
 # Especificações do Projeto
 
-
+A insônia é a principal queixa entre pessoas que sofrem algum distúrbio do sono e está a frente até do ronco. As perspectivas para o futuro não são boas, estima-se que de 30% a 40% da população terá insônia em algum momento da vida.
+Este site pretende auxiliar no tratamento de forma natural. 
+Aqui os usuários encontrarão artigos, sugestões de terapias cognitivo-comportamentais relacionadas à higiene do sono, e técnicas de relaxamento e de controle dos estímulos.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
