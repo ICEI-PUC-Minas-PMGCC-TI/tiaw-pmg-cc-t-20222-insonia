@@ -78,8 +78,11 @@ Dessa forma, segundo o Instituto Brasileiro de Opinião Pública e Estatística 
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+Conforme a Associação Brasileira do Sono, o sintoma de insônia é prevalente em 30% a 35% da população mundial. Nesse sentido, a insônia é um problema que repercute prejuízos familiares, ocupacionais e acadêmicos em uma parte considerável da população. As pessoas que sofrem por tal sintoma /transtorno tem sua saúde física e mental fragilizada, visto que o sono é essencial para manter o organismo funcionando de forma adequada. Tal problema pode ter diferentes causas e consequências para os insones, como por exemplo ansiedade e dependência de remédios para dormir. 
 
-A finalidade do projeto é dar apoio as pessoas que têm sintomas de insônia. Sendo assim, criaremos um site web para auxiliar os adolescentes e adultos em suas pesquisas e direcionamentos, analizar o impacto que o disturbio tem na sua vida cotidiana e saúde, levar informações adicionais para as que as pessoas possam se se orientar, por meio de pesquisa aberta, buscando traçar um perfil e hábitos comuns para melhor direcionar com respaldo científico. Somente assim poderemos minimizar os sintomas e cada vez mais ajudar pessoas com Insônia.
+Portanto, a finalidade do projeto é dar apoio as pessoas que têm sintoma ou transtorno de insônia. Sendo assim, criaremos um site web para auxiliar os insones (nome dado para pessoas com insônia) em suas pesquisas e para possibilitar uma visão mais ampla do impacto que o distúrbio tem na vida cotidiana e na saúde física e mental . Portando, o objetivo do trabalho é : disponibilizar, em forma de artigos, informações de instituições confiáveis; ajudar os insones a visualizar hábitos e rotinas que prejudicam sua qualidade de sono; promover um ambiente em que tais pessoas possam comunicar entre si, afim de criar uma rede de apoio . Dessa forma,  poderemos minimizar os sintomas e ajudar pessoas com Insônia.
+
+
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
