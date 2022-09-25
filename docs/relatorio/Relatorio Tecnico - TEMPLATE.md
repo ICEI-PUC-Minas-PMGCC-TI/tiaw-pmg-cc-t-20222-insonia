@@ -222,7 +222,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Permitir que o usuário faça comentários | Média|
 |RF-004| Permitir que o usuário salve os artigos na biblioteca  | ALTA|
 |RF-005| Mostrar artigos recomendados  | ALTA|
-|RF-006| Salvar histórico do usuário e mostras no vistos recentemente | ALTA|
+|RF-006| Salvar histórico do usuário e mostrar no vistos recentemente | ALTA|
 
 
 ### Requisitos não Funcionais
