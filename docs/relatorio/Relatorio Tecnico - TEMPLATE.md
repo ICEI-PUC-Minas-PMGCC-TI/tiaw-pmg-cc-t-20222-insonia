@@ -338,7 +338,9 @@ Página do forum:
 
 
 # Metodologia
-A metodologia utilizada 
+Os encontros para a realização do trabalho foram feitos no canal do grupo do discord. A organização infelizmente não foi feita pelo método Scrum. Os integrantes do grupo gerenciaram as atividades por meio de um Kanban no miro:
+![Kanban](images/KanbanFramework.jpg)
+
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
