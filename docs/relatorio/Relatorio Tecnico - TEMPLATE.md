@@ -109,10 +109,12 @@ O que impulsionou a realização deste trabalho foi ver que a insônia afeta gra
 ## Público-Alvo
 
 A insônia é um sintoma e também pode ser um transtorno. Visto isso, o público-alvo do nosso trabalho é bastante abrangente, uma vez que pode incluir diferentes faixas etárias, gêneros e classe social. No enteando, de acordo com a 29ª edição da revista "SONO" publicada pela ABS, o perfil de brasileiros que mais sofre com sono ruim são "mulheres jovens, que compartilham a cama com outra pessoa e usam smartphone e mídias interativas na hora de dormir". Logo, tal perfil tornou-se prioridade na construção da nossa aplicação. 
+
 Porém, destaque-se outros perfis que são potencias usuários: 
+
 1.Jovens entre 17-19 anos  que cursaram ou estão cursando o último ano do ensino médio. E, portanto, podem apresentar ansiedade e/ou depressão causados principalmente pela pressão na escolha de uma profissão e a necessidade de ter um rendimento satisfatório no vestibular. Além disso, são pessoas que podem ter um uso exessivo de telas de computadores e smartphones, por isso manifestam o estado de hipervigília*.
 
-2. Mulheres na menopausa, segundo a ABS, podem ter   as percepções do sono alteradas e provavelmente são afetadas por uma instabilidade emocional . A alteração na qualidade do sono relacionam aos sintomas do período de transição da menopausa: ondas de calor (fogachos) e suores noturno. Tais eventos influenciam a fragmentação do sono. Além disso, essas mulheres podem ter outros fatores que diminuem a qualidade do sono. Por exemplo, ansiedades advindas do trabalho e da vida pessoal. 
+2.Mulheres na menopausa, segundo a ABS, podem ter   as percepções do sono alteradas e provavelmente são afetadas por uma instabilidade emocional . A alteração na qualidade do sono relacionam aos sintomas do período de transição da menopausa: ondas de calor (fogachos) e suores noturno. Tais eventos influenciam a fragmentação do sono. Além disso, essas mulheres podem ter outros fatores que diminuem a qualidade do sono. Por exemplo, ansiedades advindas do trabalho e da vida pessoal. 
 
 3.Pessoas com fibromialgia: Dor e sono estão relacionados. De acordo com ABS , alterações no sono são um dos fatores de risco para a fibromialgia. Nesse sentido, o monitoramento do sono é necessário para evitar essa dor. No entanto, pessoas que já possuem a dor crônica continuam relatando queixas relacionadas ao sono, sendo que tal doença atinge principalmente mulheres entre 35 a 50 anos, segundo uma reportagem do uol.
 
