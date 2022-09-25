@@ -309,7 +309,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ![Tela inicial](images/telainial.png)
 
-![Tela do forum ](images/forum de debate.png)
+![Tela do forum ](images/forumdedebate.png)
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
