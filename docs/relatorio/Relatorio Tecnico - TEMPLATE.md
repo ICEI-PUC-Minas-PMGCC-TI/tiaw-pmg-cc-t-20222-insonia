@@ -161,7 +161,7 @@ Maya Gallardo é uma pessoa extrovertida, gosta de estar sempre rodeada de pesso
 
 Lotus dos Ramos é uma pessoa competitiva e confiante, direta e firme em suas decisões. Gosta de desafios e procura resultados imediatos. Sua preocupação é que devido ao excesso de trabalho não consegue passar mais tempo com sua família, mas procura fazer do pouco tempo, um tempo de qualidade. Gosta de estar entre amigos e com a família reunida. Alguns amigos e familiares às vezes pedem que ela pegue mais leve no trabalho, relaxe um pouco. Vê muita competição no mercado de trabalho de forma machista e racista. Assim, conhecedora do seu potencial, sabe se posicionar para transmitir suas ideias e procura ouvir seus colaboradores. Tem recebido retorno positivo, apoio no seu ambiente de trabalho e de sua família.
 
-![Mapa da Lotus](imaages/../images/mapadalotus.png)
+![Mapa da Lotus](imaages/../images/mapadalotus .png)
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
