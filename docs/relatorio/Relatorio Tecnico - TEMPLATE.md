@@ -303,6 +303,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
+![Tela inicial](images/telainial.png)
+
+![Página de monitoramento do sono](images/páginademonitoramento.png)
+
+![Tela inicial](images/telainial.png)
+
+![Tela do forum ](images/forum de debate.png)
+
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
