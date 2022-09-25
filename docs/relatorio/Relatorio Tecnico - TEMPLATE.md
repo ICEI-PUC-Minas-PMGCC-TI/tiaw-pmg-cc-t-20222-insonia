@@ -148,23 +148,11 @@ Aqui os usuários encontrarão artigos, sugestões de terapias cognitivo-comport
 
 ## Personas e Mapas de Empatia
 
-Thomas Kimon é uma pessoa meticulosa, diplomática, muito preocupado com seu trabalho e em adquirir novos conhecimentos. 
-Tem boas relações e amizades no ambiente de trabalho. Procura sempre reunir os amigos para um bom bate papo, acompanhado de boa comida.
-Nesta interação com amigos, trabalho e redes sociais, prevê um crescimento profissional e pessoal.
-Devido ao medo de perder o emprego e de ser criticado, procura sempre estar se atualizando procurando melhorias no seu desempenho profissional.
+Thomas Kimon é uma pessoa meticulosa, diplomática, muito preocupado com seu trabalho e em adquirir novos conhecimentos. Tem boas relações e amizades no ambiente de trabalho. Procura sempre reunir os amigos para um bom bate papo, acompanhado de boa comida. Nesta interação com amigos, trabalho e redes sociais, prevê um crescimento profissional e pessoal. Devido ao medo de perder o emprego e de ser criticado, procura sempre estar se atualizando procurando melhorias no seu desempenho profissional.
 
-Maya Gallardo é uma pessoa extrovertida, gosta de estar sempre rodeada de pessoas e está sempre pronta a cooperar com elas. Assim tem boas relações de amizades tanto no universo de trabalho como no pessoal. Gosta de reuni os amigos e familiares sempre que possível, mas  sua frustração é não poder vê-los frequentemente. Prevê grandes oportunidades no mercado de trabalho, devido ao bom relacionamento com profissionais de sua área.
-Demonstra sempre alegria, adora cantar em público, e vê seu esforço reconhecido nas redes sociais.
+Maya Gallardo é uma pessoa extrovertida, gosta de estar sempre rodeada de pessoas e está sempre pronta a cooperar com elas. Assim tem boas relações de amizades tanto no universo de trabalho como no pessoal. Gosta de reuni os amigos e familiares sempre que possível, mas  sua frustração é não poder vê-los frequentemente. Prevê grandes oportunidades no mercado de trabalho, devido ao bom relacionamento com profissionais de sua área. Demonstra sempre alegria, adora cantar em público, e vê seu esforço reconhecido nas redes sociais.
 
-Lotus dos Ramos é uma pessoa competitiva e confiante, direta e firme em suas decisões.
-Gosta de desafios e procura resultados imediatos.
-Sua preocupação é que devido ao excesso de trabalho não consegue passar mais tempo com sua família, mas procura fazer do pouco tempo, um tempo de qualidade.
-Gosta de estar entre amigos e com a família reunida. 
-Alguns amigos e familiares às vezes pedem que ela pegue mais leve no trabalho, relaxe um pouco.
-Vê muita competição no mercado de trabalho de forma machista e racista. Assim, conhecedora do seu potencial, sabe se posicionar para transmitir suas ideias e procura ouvir seus colaboradores.
-Tem recebido retorno positivo, apoio no seu ambiente de trabalho e de sua família.
-
-
+Lotus dos Ramos é uma pessoa competitiva e confiante, direta e firme em suas decisões. Gosta de desafios e procura resultados imediatos. Sua preocupação é que devido ao excesso de trabalho não consegue passar mais tempo com sua família, mas procura fazer do pouco tempo, um tempo de qualidade. Gosta de estar entre amigos e com a família reunida. Alguns amigos e familiares às vezes pedem que ela pegue mais leve no trabalho, relaxe um pouco. Vê muita competição no mercado de trabalho de forma machista e racista. Assim, conhecedora do seu potencial, sabe se posicionar para transmitir suas ideias e procura ouvir seus colaboradores. Tem recebido retorno positivo, apoio no seu ambiente de trabalho e de sua família.
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
