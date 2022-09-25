@@ -189,6 +189,8 @@ Lotus dos Ramos é uma pessoa competitiva e confiante, direta e firme em suas de
 
 ## Histórias de Usuários
 
+![Exemplo de Persona](imaages/../images/usuario.jpg)
+
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
@@ -276,6 +278,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > Projeto](#especificações-do-projeto).
 
 ## User Flow
+![Exemplo de UserFlow](images/telainial2.png)
+
+
+![Exemplo de UserFlow](images/mapadosite.png)
+
 
 ......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
 
