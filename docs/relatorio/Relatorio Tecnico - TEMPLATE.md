@@ -127,7 +127,7 @@ Este software é destinado a pessoas com insônia. Grande parte do público alvo
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
