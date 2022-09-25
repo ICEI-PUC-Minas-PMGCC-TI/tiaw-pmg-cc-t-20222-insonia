@@ -363,7 +363,7 @@ Os encontros para a realização do trabalho foram feitos no canal do grupo do d
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A divisão de papeis pode ser vista na imagem acima. 
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -378,10 +378,9 @@ Os encontros para a realização do trabalho foram feitos no canal do grupo do d
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/welcomeonboard/ZUlEdnlsb3hUcmgyck9Ba1hWQmRDZGpYTkJGRUphV2tLVFRyTm9Rb1NXOFBBemdFM2VBN0d2MnVjN0F6RFRZZHwzNDU4NzY0NTMzODMyNjAzOTYwfDI=?share_link_id=577973328969 | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp ou Figma | https://marvelapp.com/prototype/81f5d83 | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
