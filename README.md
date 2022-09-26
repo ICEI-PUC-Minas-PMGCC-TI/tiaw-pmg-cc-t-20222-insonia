@@ -12,8 +12,7 @@ Segundo a Associação Brasileira do Sono (Absono), o sintoma de insônia é pre
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Vieira Carneiro
 
 ## Instruções de utilização
 
