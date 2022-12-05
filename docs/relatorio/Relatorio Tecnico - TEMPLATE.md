@@ -230,8 +230,8 @@ Página do forum:
 
 ## Arquitetura da solução
 
-
-> ![Arquitetura de solução](images/solução.jpeg)
+Local storage:
+ ![Arquitetura de solução](images/solução.jpeg)
 
 
 # Avaliação da Aplicação
