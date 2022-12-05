@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="icon" type="image/x-icon" href="images/durma.png" />
+    <link
+      rel="stylesheet"
+      href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <!-- <link rel="stylesheet" href="teste.css" /> -->
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+      crossorigin="anonymous"
+    ></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script src="script.js"></script>
+    <title>Artigos</title>
+  </head>
+  <body>
+    <header class="header">
+      <a href="#"><img src="images/durma.png" style="height: 50px" /></a>
+      <nav>
+        <input type="checkbox" id="menuToggle" />
+        <label for="menuToggle" class="menu-icon">
+          <i class="fa fa-bars"></i>
+          <i class="fa fa-times-circle"></i>
+        </label>
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Destaques</a></li>
+          <li><a href="#">Artigos</a></li>
+          <li><a href="#">About</a></li>
+          <li>
+            <a>
+              <form action="/action_page.php" class="teste">
+                <input type="text" placeholder="Search.." name="search" />
+                <button type="submit">
+                  <i class="fa fa-search"></i>
+                </button>
+              </form>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <h1 class="destaque" style="margin-top: 100px">Destaques</h1>
+
+    <div
+      id="carouselExampleIndicators"
+      class="carousel slide"
+      data-bs-ride="true"
+    >
+      <div class="carousel-indicators">
+        <button
+          type="button"
+          data-bs-target="#carouselExampleIndicators"
+          data-bs-slide-to="0"
+          class="active"
+          aria-current="true"
+          aria-label="Slide 1"
+        ></button>
+        <button
+          type="button"
+          data-bs-target="#carouselExampleIndicators"
+          data-bs-slide-to="1"
+          aria-label="Slide 2"
+        ></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <section class="jogosDestaque" style="background-color: #00367c">
+            <div class="video">
+              <iframe
+                width="800"
+                height="500"
+                src="https://www.youtube.com/embed/xYy3_gUsQ7c"
+                title="Como Melhorar da INSÔNIA! Dicas Para Pegar no Sono, Dormir Bem e Descansar"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+              ></iframe>
+            </div>
+            <div class="informacoes">
+              <h1>
+                Como Melhorar da INSÔNIA! Dicas Para Pegar no Sono, Dormir Bem e
+                Descansar
+              </h1>
+              <p>
+                <b>Sobre:</b>
+                Olá pessoal sou Doutor movimentada otorrinolaringologista e no
+                vídeo de hoje eu vou te ensinar como pegar no som Muitas pessoas
+                têm distúrbio de sono e cada vez mais tem aumentado inclusive na
+                faixa de crianças adolescentes e idosos têm pego todas as faixas
+                etárias eu vou te dar dicas de ouro uma rotina saudável para
+                você chegar e ter um sono reparador, vocês sou muito grato por
+                isso e não dormir era para ser uma rotina muito fácil encostar a
+                cabeça até aquele sono gostoso e acordar de manhã descansado
+              </p>
+            </div>
+          </section>
+        </div>
+        <div class="carousel-item">
+          <section class="jogosDestaque" style="background-color: #00367c">
+            <div class="video">
+              <iframe
+                width="800"
+                height="500"
+                src="https://www.youtube.com/embed/X0HLlSvqVbc"
+                title="Counter-Strike: Global Offensive Trailer"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+              ></iframe>
+            </div>
+            <div class="informacoes">
+              <h1>Medicina do Sono: O que é a insônia?</h1>
+              <p>
+                <b>Sobre:</b>
+                gente tem isso nós temos insônia não isso precisa acontecer por
+                um período maior do que três meses e principalmente ter
+                consequências durante o dia para que se possa chamar de insônia
+                então a dificuldade de iniciar o sono que no dia seguinte a
+                pessoa sente falta desse onu não consegue se concentrar não
+                consegue aprender têm dificuldade para realizar suas tarefas é
+                considerada uma insônia. existem casos especiais em que um
+                médico pode estar um diagnóstico de insônia mais recente que é o
+                que chamamos de enxurrada de ajustamento que aquela insônia que
+                acontece em frente uma situação muito específica como por
+                exemplo a perda de um ente querido em que a pessoa não consegue
+                dormir o adormecer nas noites isso é uma insônia de ajustamento
+                mas esse não é o transtorno de insônia crônica como nós chamamos
+                quem pode fazer essa diferenciação dos transtornos de insônia é
+                o seu médico através de um diagnóstico clínico para a insônia a
+                história clínica é o mais importante elemento que vai conseguir
+                fechar o diagnóstico somente ela associada todos os sintomas que
+                o paciente a pessoa possa estar apresentando e estejam
+                relacionadas a essa dificuldade em dormir pode fechar o
+                diagnóstico de insônia .
+              </p>
+            </div>
+          </section>
+        </div>
+      </div>
+      <button
+        class="carousel-control-prev"
+        type="button"
+        data-bs-target="#carouselExampleIndicators"
+        data-bs-slide="prev"
+      >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button
+        class="carousel-control-next"
+        type="button"
+        data-bs-target="#carouselExampleIndicators"
+        data-bs-slide="next"
+      >
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+
+    <h1 style="font-size: 40px">Artigos</h1>
+
+    <!-- Releases -->
+    <section class="flex">
+      <div>
+        <iframe
+          src="./Artigos/1.pdf"
+          style="width: 300px; height: 400px"
+          frameborder="0"
+        ></iframe>
+        <button class="bookmark-this">Favoritar</button>
+        <p>Transtornos do sono: visão geral</p>
+      </div>
+      <div>
+        <iframe
+          src="./Artigos/2.pdf"
+          style="width: 300px; height: 400px"
+          frameborder="0"
+        ></iframe>
+        <button class="bookmark-this">Favoritar</button>
+        <p>Tratamento da Insônia em Atenção Primária à Saúde</p>
+      </div>
+      <div>
+        <iframe
+          src="./Artigos/3.pdf"
+          style="width: 300px; height: 400px"
+          frameborder="0"
+        ></iframe>
+        <button class="bookmark-this">Favoritar</button>
+        <p>
+          Insônia: Prevalência e fatores de risco relacionados em população de
+          idosos acompanhados em ambulatorio.
+        </p>
+      </div>
+      <div>
+        <iframe
+          src="./Artigos/4.pdf"
+          style="width: 300px; height: 400px"
+          frameborder="0"
+        ></iframe>
+        <button class="bookmark-this">Favoritar</button>
+        <p>Insônia: doença crônica e sofrimento</p>
+      </div>
+      <div>
+        <iframe
+          src="./Artigos/5.pdf"
+          style="width: 300px; height: 400px"
+          frameborder="0"
+        ></iframe>
+        <button class="bookmark-this">Favoritar</button>
+        <p>Tratamento da Insónia no Doente Idoso Hospitalizado</p>
+      </div>
+      <div>
+        <iframe
+          src="./Artigos/6.pdf"
+          style="width: 300px; height: 400px"
+          frameborder="0"
+        ></iframe>
+        <button class="bookmark-this">Favoritar</button>
+        <p>O uso de erva-cifreira no manejo de insonia e ansiedade.</p>
+      </div>
+    </section>
+
+    <footer class="footer">Copyright 2022 por Gabriel Fialho.</footer>
+  </body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Durma | Problemas de Insônia</title>
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="./Assets/Styles(css)/HPstyle.css"
+		/>
+	</head>
+
+	<body>
+		<header>
+			<a href="./HPindex.html" class="logo">DURMA</a>
+			<ul>
+				<li><a href="./HPindex.html" class="home"> Home</a></li>
+				<li>
+					<a href="./gabriel/index.html" class="home"> Artigos </a>
+				</li>
+				<li>
+					<a href="././Modules/Artigo/criar.html" class="home"> Crie </a>
+				</li>
+				<li><a href="#" class="login"> LogIn </a></li>
+			</ul>
+		</header>
+
+		<section>
+			<img src="./Assets/Images(png)/stars.png" id="stars" />
+			<img src="./Assets/Images(png)/moon.png" id="moon" />
+			<img
+				src="./Assets/Images(png)/mountains_behind.png"
+				id="mountains_behind"
+			/>
+			<h2 id="text">Bons Sonhos</h2>
+			<a href="#article" id="btn">Explore</a>
+			<img
+				src="./Assets/Images(png)/mountains_front.png"
+				id="mountains_front"
+			/>
+		</section>
+
+		<div class="search_box" id="search_box">
+			<input type="text" class="search_txt" placeholder="Pesquisar" />
+			<a href="./Modules(html)/SearchPage/SPindex.html" class="search_btn">
+				<img
+					src="./Assets/Images(png)/lupa.png"
+					alt="lupa"
+					height="20"
+					width="20"
+				/>
+			</a>
+		</div>
+
+		<main>
+			<div class="article" id="article">
+				<br />
+				<h2>Recomendados</h2>
+
+				<article class="first">
+					<br />
+					<img
+						width="100"
+						height="100"
+						src="https://artritereumatoide.blog.br/wp-content/uploads/2017/10/rem%C3%A9dio-e-ch%C3%A1-para-insonia-1.jpg"
+					/>
+					<h3 class="titulo">Insônia</h3>
+					<h4 class="subtitulo">
+						<span>data</span> - <span>autor</span> -
+						<span>categoria</span>
+					</h4>
+					<p class="texto">
+						resumo - Lorem ipsum dolor sit amet <br />
+						<a href=""> Saiba mais </a>
+					</p>
+				</article>
+			</div>
+		</main>
+
+		<script>
+			let stars = document.getElementById("stars");
+			let moon = document.getElementById("moon");
+			let mountains_behind = document.getElementById("mountains_behind");
+			let text = document.getElementById("text");
+			let btn = document.getElementById("btn");
+			let mountains_front = document.getElementById("mountains_front");
+			let header = document.querySelector("header");
+
+			window.addEventListener("scroll", function () {
+				let value = window.scrollY;
+				stars.style.left = value * 0.25 + "px";
+				moon.style.top = value * 1.5 + "px";
+				mountains_behind.style.top = value * 0.5 + "px";
+				mountains_front.style.top = value * 0 + "px";
+				text.style.marginRight = value * 4 + "px";
+				text.style.marginTop = value * 1.5 + "px";
+				btn.style.marginTop = value * 1.5 + "px";
+				header.style.top = value * 0.5 + "px";
+			});
+		</script>
+	</body>
+</html>

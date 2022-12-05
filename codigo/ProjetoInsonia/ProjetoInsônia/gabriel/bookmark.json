@@ -1,0 +1,58 @@
+{
+	"checksum": "d27be6b28b9a8879c2cb9ba6fc90df21",
+	"roots": {
+		"bookmark_bar": {
+			"children": [
+				{
+					"date_added": "13081990058553125",
+					"id": "7",
+					"meta_info": {
+						"stars.id": "ssc_c257c6390425956c",
+						"stars.version": "sync.server.Chrome45"
+					},
+					"name": "Google",
+					"sync_transaction_version": "1",
+					"type": "url",
+					"url": "https://www.google.com/"
+				},
+				{
+					"date_added": "13078166246742000",
+					"id": "9",
+					"meta_info": {
+						"stars.flags": "5",
+						"stars.id": "ssc_7150b291c6b52a37",
+						"stars.pageData": "Ig5keGVLcUJvcW5kTjZSTQ==",
+						"stars.type": "2"
+					},
+					"name": "Apollo III Communications",
+					"sync_transaction_version": "1",
+					"type": "url",
+					"url": "http://www.apollo3.com/"
+				}
+			],
+			"date_added": "13113606994595146",
+			"date_modified": "13083379523340359",
+			"id": "1",
+			"name": "Bookmarks bar",
+			"type": "folder"
+		},
+		"other": {
+			"children": [],
+			"date_added": "13113606994595154",
+			"date_modified": "0",
+			"id": "2",
+			"name": "Other bookmarks",
+			"type": "folder"
+		},
+		"sync_transaction_version": "5",
+		"synced": {
+			"children": [],
+			"date_added": "13113606994595157",
+			"date_modified": "0",
+			"id": "3",
+			"name": "Mobile bookmarks",
+			"type": "folder"
+		}
+	},
+	"version": 1
+}
