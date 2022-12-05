@@ -231,7 +231,7 @@ Página do forum:
 ## Arquitetura da solução
 
 
-> ![Arquitetura de solução](images/solucao.jpeg)
+> ![Arquitetura de solução](images/solução.jpeg)
 
 
 # Avaliação da Aplicação
