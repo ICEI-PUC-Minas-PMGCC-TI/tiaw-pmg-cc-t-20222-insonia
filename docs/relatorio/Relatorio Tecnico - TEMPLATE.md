@@ -167,15 +167,7 @@ Página do forum:
 
 ## Divisão de Papéis
 
-A divisão de papeis pode ser vista na imagem acima. As cores designadas para cada pessoa foram colocadas nas atividades para relatar quais pessoas foram encaminhadas. 
-Algumas foram decididas durante a realização do projeto e outras foram decididas na primeira reunião do grupo. 
-
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+![Divisão de Tarefas](images/tarefas.jpeg)
 
 
 ## Ferramentas
@@ -207,8 +199,6 @@ Algumas foram decididas durante a realização do projeto e outras foram decidid
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > A ferramenta de controle de versão adotada no projeto foi o
 > [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 > foi utilizado para hospedagem do repositório `upstream`.
@@ -226,10 +216,6 @@ Algumas foram decididas durante a realização do projeto e outras foram decidid
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
 > - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 
 
